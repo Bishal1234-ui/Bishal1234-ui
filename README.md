@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Bishal1234-ui
+- 👋 Hi, I’m Bishal Hazarika
 - 👀 I’m interested in Machine Learning, Automation, Robotics and Web Development
 - 🌱 I’m currently learning Natural Language Processing using Tensorflow
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
 
 <!---
 Bishal1234-ui/Bishal1234-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
