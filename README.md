@@ -66,12 +66,12 @@ You can click the Preview link to take a look at your changes.
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   </a>
   &emsp;
-  <a href="tensorflow.org" target="_blank">
+  <a href="https://tensorflow.org" target="_blank">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>
   &emsp;
  
-  <a href="https://scikit-learn.orgtensorflow.org" target="_blank">
+  <a href="https://scikit-learn.org" target="_blank">
     <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
  
