@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ## :sassy_man:  About me
 - 🏫 I am an BTech in ECE student at Gauhati University
 - :technologist: Learning techs like ML, Mobile dev, IoT
-- :thinking: I’m currently open for: `An Intern` or `freelancing opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1AmYlnRLKYZfHIY-GTIdNNMOCzY2enodc/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or `Job Opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1AmYlnRLKYZfHIY-GTIdNNMOCzY2enodc/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
