@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :sassy_man:  About me
 - 🏫 I am an BTech in ECE Graduate from Gauhati University
-- :technologist: Learning techs like ML, Web dev, GenAI Mobile dev, IoT
+- :technologist: Learning techs like ML, Web dev, GenAI, Flutter Mobile dev, IoT
 - :thinking: I’m currently open for: `An Intern` or `Job Opportunity`
 - :nerd_face: Always `learning new things`
 
@@ -59,8 +59,12 @@ You can click the Preview link to take a look at your changes.
 
 ### 👉 Frameworks
 <p align="center">
- &emsp;
-    <a href="https://flutter.dev" target="_blank">
+  &emsp;
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://flutter.dev" target="_blank">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   </a>
   &emsp;
@@ -68,14 +72,17 @@ You can click the Preview link to take a look at your changes.
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>
   &emsp;
- 
   <a href="https://scikit-learn.org" target="_blank">
     <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
- 
+  &emsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=FastAPI&logoColor=white">
+  </a>
 </p>
 
-### 👉 Web and Backend Services
+
+### 👉 Web and Databases
 <p align="center">
  &emsp;
     <a href="" target="_blank">
@@ -86,9 +93,20 @@ You can click the Preview link to take a look at your changes.
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a>
   &emsp;
- 
   <a href="" target="_blank">
     <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+  </a>
+  &emsp;
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   </a>
  
 </p>
@@ -96,9 +114,9 @@ You can click the Preview link to take a look at your changes.
 ### 👉 SOFT SKILLS
 <p align="center">
  &emsp;
-    <a href="" target="_blank">
-    <img alt="Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-  </a>
+   <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">
+  <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-%23000000.svg?style=for-the-badge&logo=DaVinciResolve&logoColor=white">
+</a>
   &emsp;
   <a href="" target="_blank">
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
